@@ -16,3 +16,7 @@ def test_3():
 
 def test_6():
     assert 2 > 1
+
+
+def test_7():
+    assert 7 > 1
