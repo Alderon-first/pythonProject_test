@@ -18,5 +18,5 @@ def test_6():
     assert 2 > 1
 
 
-def test_7_new():
+def test_7_new_name():
     assert 7 > 1
